@@ -1,0 +1,19 @@
+{
+  "name": "farm",
+  "version": "1.0.0",
+  "description": "node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvead/node-farm.git"
+  },
+  "author": "Wided Ahlem Touhami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvead/node-farm/issues"
+  },
+  "homepage": "https://github.com/vvead/node-farm#readme"
+}
